@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background:#099;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+h1 {
+	text-decoration:underline;
+	text-align:center;
+	color: #fff;
+	text-shadow:#9F9; 
+}
